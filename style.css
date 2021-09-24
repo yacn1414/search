@@ -1,0 +1,28 @@
+*{
+	text-align: center;
+	position: relative;
+	top: 30%;
+}
+input[type='submit']{
+	border-radius: 20%;
+	border: none;
+	background: black;
+	width: 100px;
+	color: rgb(211, 211, 211);
+	height: 40px;
+
+}
+input[type='text']{
+height: 35px;
+border-radius:19px ;
+border: none;
+background: #eaeaea;
+}
+#resualt{
+ text-decoration: none;
+  font-size:20px;
+  float: left;
+  left: 100px;
+  
+
+}
