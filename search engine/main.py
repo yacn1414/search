@@ -2,8 +2,8 @@ from pyrogram import Client
 import time
 import os
 
-api_id = 1027421
-api_hash = "20eb6a39df8a8a1f9a6940da2bad2059"
+api_id = 1111
+api_hash = "***"
 while True:
     try:
         for x in os.listdir('../searchs/'):
